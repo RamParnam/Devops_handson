@@ -1,1 +1,1 @@
-print("Hello Ram, CI is working!")
+print("Hello Ram, CI is working")
